@@ -1,7 +1,7 @@
 class School 
   
   ROSTERS = {}
-  def initialize(school, roster)
+  def initialize(school)
     @school = school
     ROSTERS
   end 
