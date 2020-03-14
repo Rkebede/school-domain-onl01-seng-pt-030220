@@ -1,6 +1,6 @@
 class School
   
-  def initalization(name)
+  def initalization(school)
     @roster = {}
   end 
   
