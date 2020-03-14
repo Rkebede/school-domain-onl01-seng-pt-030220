@@ -5,7 +5,7 @@ class School
   end 
   
   def add_student(name, grade)
-    add_student = {:name 
+    add_student = {"name" => "#{name}", "grade" => "#{grade}"} 
     
   
 end 
