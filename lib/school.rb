@@ -1,3 +1,7 @@
-def initialize(school)
-  @school = school
+class School 
+  
+  
+  def initialize(school)
+    @school = school
+  end 
 end 
